@@ -1,0 +1,102 @@
+RANDOM AVAILABLE MOVE
+
+average score: 1103.02
+score stdev: 533.523667329
+average moves: 118.932
+wins: 0
+win percentage: 0.0%
+
+best score: 3156
+  4 128  16   2
+ 32 256  32   8
+  4  64   8   4
+  2   4  16   2
+
+worst score: 228
+  4   2  16   2
+ 16   4   2  16
+  4  16   8   4
+  2   8   4   2
+
+----------------------------------------------------------
+PREFERENCE MOVE
+
+average score: 2302.068
+score stdev: 1104.81923018
+average moves: 207.724
+wins: 0
+win percentage: 0.0%
+
+best score: 7076
+ 32  64 256 512
+  8   2  16 128
+  4  16   8   2
+  2   4   2  16
+
+worst score: 240
+  4   8  16   2
+  2   4   8  32
+  4   2   4   8
+  2   4   8   2
+
+----------------------------------------------------------
+HIGH SCORE MOVE (PURE GREEDY)
+
+average score: 4131.276
+score stdev: 1993.6550323
+average moves: 320.734
+wins: 0
+win percentage: 0.0%
+
+best score: 13052
+  2   8  16  32
+  4  16  32 128
+  8  32 128  1k
+  2   8  64 256
+
+worst score: 500
+  2   4  16   2
+  4  16  32   4
+ 16   2  16   2
+  8  16  32   8
+
+----------------------------------------------------------
+FREE SPACE MOVE (PURE GREEDY)
+
+average score: 2948.188
+score stdev: 1429.01366147
+average moves: 250.36
+wins: 0
+win percentage: 0.0%
+
+best score: 10120
+  4  16   4   2
+ 1k   2  32   8
+128  32   8   4
+ 16   8   4   2
+
+worst score: 304
+  4   2   8   2
+ 32   8  16   8
+  8  16   8   4
+  4   8   4   2
+
+----------------------------------------------------------
+SMOOTHEST MOVE (PURE GREEDY)
+
+average score: 19116.06
+score stdev: 9647.82566242
+average moves: 1049.518
+wins: 381
+win percentage: 38.1%
+best score: 76472
+  2  16  32   2
+  8  32  64  1k
+  4  16 256  2k
+  2   4 128  4k
+
+worst score: 1312
+  8  16   4   2
+  2   8  16  64
+ 32   4   8   4
+128   2   4   2
